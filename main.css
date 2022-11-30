@@ -1,0 +1,45 @@
+
+          p.abzac {
+            text-align: left;
+          }
+          img.flag {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 20%;
+            height: 20%;
+          }
+          img.look {
+            width: 30%;
+          height: 30%;
+          }
+          figure {
+            border: 3px solid #ccc; /* рамка */
+        background-color: #ffffff; /* цвет фона */
+        padding: 0px; /* отступы от картинки */
+    
+        }
+        figcaption {
+        text-align: center; /* подпись по центру*/
+        }
+        figure.e {
+          border: 3px solid #ccc; /* рамка */
+      background-color: #ffffff; /* цвет фона */
+      padding: 0px; /* отступы от картинки */
+      width: 205px;
+      height: 205px;
+        }
+img.earth {
+  width: 200px;
+  height: 200px;
+
+}
+figure.m {
+  border: 3px solid #ccc; /* рамка */
+background-color: #ffffff; /* цвет фона */
+padding: 0px; /* отступы от картинки */
+width: 405px;
+height: 205px;}
+img.map {
+  width: 400px;
+  height: 200px;}
